@@ -1,0 +1,16 @@
+.bg1{
+
+    color: white;
+}
+.bg1:hover{
+    color: rgb(255, 170, 58);
+}
+.start{
+    background-color: black;
+}
+.gbt{
+    background-color:gainsboro ;
+}
+h1::first-letter{
+    color: rgb(255, 174, 0);
+}

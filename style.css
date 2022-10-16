@@ -1,0 +1,17 @@
+.bg1{
+
+    color: white;
+}
+.bg1:hover{
+    color: rgb(255, 170, 58);
+}
+
+h1::first-letter{
+    color: rgb(255, 174, 0);
+}
+#heading{
+    color: rgb(255, 174, 0);
+}
+#shadow:hover{
+box-shadow: 0px 8px 10px 0px gray;
+}
